@@ -1,0 +1,38 @@
+<annotation>
+	<folder>usb_laptop_klavye</folder>
+	<filename>IMG_20201222_183557.jpg</filename>
+	<path>C:\Fotograflar\s\usb_laptop_klavye\IMG_20201222_183557.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>297</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>klavye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>267</ymin>
+			<xmax>222</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>flash disk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>371</ymin>
+			<xmax>125</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

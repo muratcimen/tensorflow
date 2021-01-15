@@ -1,0 +1,50 @@
+<annotation>
+	<folder>usb_laptop_klavye</folder>
+	<filename>IMG_20201222_183744.jpg</filename>
+	<path>C:\Fotograflar\s\usb_laptop_klavye\IMG_20201222_183744.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>297</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pilot kalem</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>45</ymin>
+			<xmax>235</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>flash disk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>118</ymin>
+			<xmax>246</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>242</ymin>
+			<xmax>260</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

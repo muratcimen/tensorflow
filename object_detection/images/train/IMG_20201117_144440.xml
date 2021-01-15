@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pilot_kalem</folder>
+	<filename>IMG_20201117_144440.jpg</filename>
+	<path>C:\Fotograflar\s\pilot_kalem\IMG_20201117_144440.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>297</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pilot kalem</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>31</ymin>
+			<xmax>324</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

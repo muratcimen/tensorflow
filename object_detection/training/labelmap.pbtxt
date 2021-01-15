@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'telefon'
+}
+
+item {
+  id: 2
+  name: 'mouse'
+}
+
+item {
+  id: 3
+  name: 'pilot kalem'
+}
+item {
+  id: 4
+  name: 'klavye'
+}
+
+item {
+  id: 5
+  name: 'flash disk'
+}
+
+item {
+  id: 6
+  name: 'laptop'
+}
+
